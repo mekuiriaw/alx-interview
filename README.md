@@ -1,1 +1,1 @@
-THIS IS PASCAL TRIANGLE
+this is pascale
