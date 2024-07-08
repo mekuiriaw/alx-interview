@@ -1,1 +1,1 @@
-this is pascale
+# Solutions to various interview type questions

@@ -1,1 +1,1 @@
-this is pascal
+# Solutions to tasks on Pascal's Triangle
